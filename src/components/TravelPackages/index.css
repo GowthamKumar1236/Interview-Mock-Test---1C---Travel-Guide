@@ -1,0 +1,27 @@
+.items {
+  background-color: #ffffff;
+  width: 500px;
+  margin-left: 20px;
+  margin-bottom: 18px;
+}
+
+.image {
+  width: 500px;
+}
+
+.details {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.name {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #334155;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 17px;
+  color: #64748b;
+}
